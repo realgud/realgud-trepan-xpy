@@ -16,9 +16,5 @@ From github source
   (compile (format "EMACSLOADPATH=:%s:%s ./autogen.sh" (file-name-directory (locate-library "test-simple.elc")) (file-name-directory (locate-library "realgud.elc"))))
 ```
 
-[travis-image]: https://api.travis-ci.org/realgud/realgud-lldb.svg?branch=master
-[travis-url]: https://travis-ci.org/realgud/realgud-lldb
-[melpa-stable-image]: http://stable.melpa.org/packages/realgud-lldb-badge.svg
-[melpa-stable]: http://stable.melpa.org/#/realgud-lldb
-[melpa-image]: http://melpa.org/packages/realgud-lldb-badge.svg
-[melpa]: http://melpa.org/#/realgud-lldb
+[gnu-elpa-image]: https://elpa.gnu.org/packages/realgud-trepan-xpy.svg
+[gnu-elpa]: https://elpa.gnu.org/packages/realgud-trepan-xpy.html
