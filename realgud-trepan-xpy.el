@@ -4,7 +4,7 @@
 ;; Version: 1.0.0
 ;; Package-Type: multi
 ;; Package-Requires: ((realgud "1.5.0") (load-relative "1.3.1") (emacs "25"))
-;; URL: http://github.com/rocky/realgud-trepan-xpy
+;; URL: https://github.com/realgud/realgud-trepan-xpy
 ;; Compatibility: GNU Emacs 25.x
 
 ;; Copyright (C) 2019 Free Software Foundation, Inc
@@ -27,7 +27,7 @@
 ;;; Commentary:
 
 ;; realgud support for the Python trepan-xpy
-;; See https://pypi.org/project/trepan-xpy/
+;; See https://pypi.org/project/trepanxpy/
 
 ;;; Code:
 
