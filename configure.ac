@@ -1,5 +1,5 @@
 dnl FIXME: pick up from realgud.el
-AC_INIT([realgud-trepan-xpy],[1.0.0],[])
+AC_INIT([realgud-trepan-xpy],[1.0.1],[])
 AC_CONFIG_SRCDIR(trepan-xpy/trepan-xpy.el)
 AM_INIT_AUTOMAKE([foreign])
 AM_MAINTAINER_MODE

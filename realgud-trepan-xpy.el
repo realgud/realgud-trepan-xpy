@@ -1,13 +1,13 @@
 ;;; realgud-trepan-xpy.el --- Realgud front-end to trepan-xpy  -*- lexical-binding: t -*-
 
 ;; Author: Rocky Bernstein <rocky@gnu.org>
-;; Version: 1.0.0
+;; Version: 1.0.1
 ;; Package-Type: multi
 ;; Package-Requires: ((realgud "1.5.0") (load-relative "1.3.1") (emacs "25"))
 ;; URL: https://github.com/realgud/realgud-trepan-xpy
 ;; Compatibility: GNU Emacs 25.x
 
-;; Copyright (C) 2019 Free Software Foundation, Inc
+;; Copyright (C) 2019, 2023 Free Software Foundation, Inc
 
 ;; Author: Rocky Bernstein <rocky@gnu.org>
 
