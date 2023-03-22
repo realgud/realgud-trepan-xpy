@@ -1,3 +1,5 @@
+[![MELPA][melpa-image]][melpa]
+
 Introduction
 ============
 
@@ -6,6 +8,19 @@ Emacs Lisp Module to add [trepan-xpy](https://github.com/rocky/trepan-xpy/) supp
 
 Installation
 =============
+
+Installation
+=============
+
+From ELPA
+----------
+
+Inside GNU Emacs evaluate:
+
+```lisp
+  (package-install realgud-trepan-xpy)
+```
+
 
 From github source
 ------------------
